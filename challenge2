@@ -1,3 +1,9 @@
+#first note starts at 21
+#repeat the loop 87 times
+#plays like a piano
+#variable as x
+#varaible x sleeps 1 time each time
+#x will add by each time, the first one will be x=21+1) is 22 then it changes to 22+1=23 so on, the loop will go.
 use_synth:piano
 x=21
 87. times do
